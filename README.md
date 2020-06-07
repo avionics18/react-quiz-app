@@ -1,3 +1,2 @@
-# quiziapa
+# QUIZIAPA - A Quiz Game made with React.js
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quiziapa)
