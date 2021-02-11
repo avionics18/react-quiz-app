@@ -4,3 +4,5 @@ Simple quiz game showing 5 random questions at a time. Questions are of MCQ type
 
 **Live Link** : [Click here](https://quiziapa.netlify.app)
 
+![screenshot](screenshot.jpg)
+
